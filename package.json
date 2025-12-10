@@ -1,7 +1,7 @@
 {
-  "name": "mokko-dark",
-  "displayName": "Mokko Dark",
-  "description": "Mokko Dark theme based on Tokio Night with modified interface colors and syntax highlighting for PHP and HTML",
+  "name": "mokko",
+  "displayName": "Mokko",
+  "description": "",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.106.1"
@@ -14,16 +14,15 @@
       {
         "label": "Mokko Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/mokko-color-theme.json"
+        "path": "./themes/mokko-dark.json"
+      },
+      {
+        "label": "Mokko",
+        "uiTheme": "vs",
+        "path": "./themes/mokko.json"
       }
     ]
   },
-  "keywords": [
-    "dark theme",
-    "php",
-    "html",
-    "syntax highlighting"
-  ],
   "author": "Andrey Mokko",
   "license": "MIT"
 }
