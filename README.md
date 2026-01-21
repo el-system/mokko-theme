@@ -1,10 +1,8 @@
 # Mokko Theme for VS Code
 
-A dark theme for Visual Studio Code based on Tokio Night, with customized interface colors and enhanced syntax highlighting for PHP and HTML
+A dark theme for Visual Studio Code based on Tokyo Night: a darker version and a slightly lighter dark version. Includes customized interface colors and enhanced syntax highlighting for PHP and HTML
 
-![Dark Theme Screenshot](images/dark-example.png)
-
-Light theme still in dev, but already working
+![Theme Screenshot](images/example.png)
 
 ## Installation
 
