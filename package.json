@@ -18,7 +18,7 @@
       },
       {
         "label": "Mokko",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/mokko.json"
       }
     ]
