@@ -12,14 +12,39 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mokko Dark",
+        "label": "mokko dark",
         "uiTheme": "vs-dark",
         "path": "./themes/mokko-dark.json"
       },
       {
-        "label": "Mokko",
+        "label": "mokko dark faded",
         "uiTheme": "vs-dark",
-        "path": "./themes/mokko.json"
+        "path": "./themes/mokko-dark-faded.json"
+      },
+      {
+        "label": "mokko kaiocto",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mokko-kaiocto.json"
+      },
+      {
+        "label": "mokko spec",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mokko-spec.json"
+      },
+      {
+        "label": "mokko noct",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mokko-noct.json"
+      },
+      {
+        "label": "mokko kaihub light",
+        "uiTheme": "vs",
+        "path": "./themes/mokko-kaihub-light.json"
+      },
+      {
+        "label": "mokko immer light",
+        "uiTheme": "vs",
+        "path": "./themes/mokko-immer-light.json"
       }
     ]
   },
